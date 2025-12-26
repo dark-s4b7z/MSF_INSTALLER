@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 
-DARK SHADOW 
-DK Cyber Support Desk - OPC 
+#DARK SHADOW 
+#DK Cyber Support Desk - OPC 
 echo -e "\033[1;31m"
 cat << "EOF"
 
